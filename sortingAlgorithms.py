@@ -14,7 +14,8 @@ class InsertionSort:
 				j=j-1
 				#print list
 			list[j+1]=key
-			#print list
+                        
+                        #print list
 		print "Insertion Sort Output is:\n" + str(list) 	
 	
 class MergeSort:
