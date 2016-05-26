@@ -1,4 +1,4 @@
-# Insertion Sort Part
+# Insertion Sort
 from random import *
 
 MAXVALUE=99

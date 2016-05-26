@@ -1,4 +1,4 @@
-Run by typing 
+Run by typing:
 
 python bst.py
 

@@ -132,7 +132,7 @@ class Bst:
 
 
 os.system("clear")
-print "                                                                                Welcome to BSTMAKER by Abhay Raina.                                                              "
+print "                                                                                Welcome to BSTMAKER by Abhay Raina                                                              "
 tree=Bst()
 inp=tree.insertNode(int(raw_input("Please enter the numeric key for the root node.\n")))
 while(not str(inp)=="end"):
